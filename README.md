@@ -35,6 +35,6 @@ Look [here](https://codepen.io/gmoraleslondono/full/KJedOM) my personal portfoli
 
 ## Credits:
 
-This project was created following [Freecodecamp](https://learn.freecodecamp.org) Tutorial.
+This project was created following [freeCodeCamp](https://learn.freecodecamp.org) Tutorial.
 
 Made with ❤ by Gloria Morales
